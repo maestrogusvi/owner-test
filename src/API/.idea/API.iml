@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/php-github-api-master/lib/Github" isTestSource="false" packagePrefix="Github\" />
+      <sourceFolder url="file://$MODULE_DIR$/php-github-api-master/test/Github/Tests" isTestSource="true" packagePrefix="Github\Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/cache/adapter-common" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/cache/array-adapter" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/cache/hierarchical-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/cache/taggable-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/clue/stream-filter" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/cache-plugin" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/client-common" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/discovery" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/guzzle6-adapter" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/httplug" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/message" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/message-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/mock-client" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpunit/phpunit-mock-objects" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

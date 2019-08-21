@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/composer" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/php-http/mock-client" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/php-http/message" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/php-http/client-common" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/php-http/cache-plugin" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/clue/stream-filter" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/cache/taggable-cache" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/cache/hierarchical-cache" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/cache/array-adapter" />
+      <path value="$PROJECT_DIR$/php-github-api-master/vendor/cache/adapter-common" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/php-github-api-master/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
