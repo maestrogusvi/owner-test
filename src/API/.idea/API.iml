@@ -14,9 +14,15 @@
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/guzzlehttp/guzzle" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/guzzlehttp/promises" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/jeremeamia/superclosure" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/pecee/simple-router" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phar-io/manifest" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-di/phpdoc-reader" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/cache-plugin" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/client-common" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/php-http/discovery" />
@@ -38,6 +44,7 @@
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpunit/phpunit" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/phpunit/phpunit-mock-objects" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/psr/container" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/psr/http-message" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/psr/log" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/ralouphie/getallheaders" />
@@ -54,6 +61,8 @@
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/sebastian/version" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/symfony/options-resolver" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/symfony/polyfill-php56" />
+      <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/symfony/polyfill-util" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/php-github-api-master/vendor/webmozart/assert" />
     </content>

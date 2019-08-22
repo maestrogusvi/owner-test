@@ -10,28 +10,7 @@ class LogsClass extends ConexionClass{
     private $number_record;
 
     function __construct(){}
-    public function show(){
 
-        $q = $this->conDB()->prepare("SELECT * FROM search_log");
-        $q->execute();
-        $jsondatos = array();
-        $it=0;
-        while($x=$q->fetch(PDO::FETCH_ASSOC)){
-            $jsondatos[$it]=[
-                "id"=>$x["id"],
-                "search"=>$x["search"],
-                "date_search"=>$x["date_search"],
-                "number_records"=>$x["number_records"]
-            ];
-
-            $it++;
-
-        }
-
-        header('Content-type: application/json; charset=utf-8');
-        echo  json_encode($jsondatos);
-
-    }
 
     public function setSearch($search){
         $this->search= $search;
@@ -62,6 +41,28 @@ class LogsClass extends ConexionClass{
         $q->bindValue('date_search',$this->getDate_search());
         $q->bindValue('number_records',$this->getNumber_record());
         $q->execute();
+    }
+
+    public function show(){
+
+        $q = $this->conDB()->prepare("SELECT * FROM search_log");
+        $q->execute();
+        $jsondatos = array();
+        $it=0;
+        while($x=$q->fetch(PDO::FETCH_ASSOC)){
+            $jsondatos[$it]=[
+                "id"=>$x["id"],
+                "search"=>$x["search"],
+                "date_search"=>$x["date_search"],
+                "number_records"=>$x["number_records"]
+            ];
+
+            $it++;
+
+        }
+        header('Content-type: application/json; charset=utf-8');
+        echo  json_encode($jsondatos);
+
     }
 
 }

@@ -1,6 +1,6 @@
 <?php
 
-require_once "../Model/LogsClass.php";
+  require_once "./Model/LogsClass.php";
 
 class LogsController{
 
