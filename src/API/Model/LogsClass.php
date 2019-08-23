@@ -35,6 +35,14 @@ class LogsClass extends ConexionClass{
         return $this->number_record;
     }
 
+/**
+	  * Crear un Log.
+	  *
+	  * Con el objeto ya instanciado y los datos obtenidos
+	  * Hacemos una insercion a la bd
+	  *
+	  * @return void
+	  */
     public function create(){
         $q = $this->conDB()->prepare("insert into search_log values(NULL,:search,:date_search,:number_records)");
         $q->bindValue('search',$this->getSearch());
@@ -43,6 +51,11 @@ class LogsClass extends ConexionClass{
         $q->execute();
     }
 
+/**
+	  * Devuelve todos los los realizados
+	  *
+	  * @return JSON Regresa el total de registros de logs
+	  */
     public function show(){
 
         $q = $this->conDB()->prepare("SELECT * FROM search_log");

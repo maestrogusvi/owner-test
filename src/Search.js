@@ -7,10 +7,6 @@ import Container from "react-bootstrap/es/Container";
 
 export default class Search extends React.Component{
 
-    clickSe() {
-        var title = this.state.inputValue;
-        console.log(title);
-    }
 
     constructor(props) {
         super(props);
