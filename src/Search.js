@@ -67,10 +67,6 @@ export default class Search extends React.Component{
                     <Col xs={6} md={2}>
                         <Button  onClick={this.getRepos.bind(this)} className="btnSearch btn-primary btn-lg">Search</Button>
                     </Col>
-                    <Col xs={6} md={2}>
-                        <Button  className="btnClear btn-danger btn-lg">Clear</Button>
-                    </Col>
-
                 </Row>
             </Container>
 
